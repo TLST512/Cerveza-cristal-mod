@@ -1,11 +1,11 @@
 {
   "namespace": "YourThunderstoreTeam",
-  "name": "Template",
-  "description": "A template for Lethal Company plugins.",
-  "version_number": "1.0.2",
+  "name": "Cerveza cristal",
+  "description": "Adds a scrap item based on the cerveza cristal meme",
+  "version_number": "1.0.0",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ],
-  "website_url": "https://github.com/Distractic/LethalCompanyTemplate",
+  "website_url": "https://github.com/TLST512/Cerveza-cristal-mod",
   "FullName": "YourThunderstoreTeam-Template"
 }
